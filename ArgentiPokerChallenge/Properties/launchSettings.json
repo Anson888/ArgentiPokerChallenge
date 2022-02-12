@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArgentiPokerChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Anson\\Downloads\\poker-hands.txt\""
+    }
+  }
+}
